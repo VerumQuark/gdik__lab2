@@ -109,15 +109,6 @@ while(menu != '0') {
     }
 }
 
-//Add test comment for gdik lab2
-
-
-//add second test comment
-
-//Add third test com
-
-
-//TEST
 
 
     return 0;
